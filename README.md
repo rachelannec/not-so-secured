@@ -35,8 +35,8 @@ This is a simple web application that requires users to enter a key or password 
 bash
 
 ```
-git clone https://github.com/yourusername/password-protected-webapp.git
-cd password-protected-webapp
+git clone https://github.com/rachelannec/not-so-secured.git
+cd not-so-secured
 
 ```
 
@@ -58,7 +58,7 @@ cd password-protected-webapp
 
 ### Fun Use Case
 
--   This app can be a quirky way to confess your feelings to your non-CS/IT crush 😭😆. Just set a cute message or confession on the content page and give them the password to access it. Remember, it's all in good fun and not for serious or sensitive information!
+-   This app can be a quirky way to confess your feelings to your non-CS/IT crush 😭😆. Just set a message or confession on the content page and give them the password to access it. Remember, it's all in good fun and not for serious or sensitive information!
     
 
 ## Note

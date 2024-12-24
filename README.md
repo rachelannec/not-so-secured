@@ -1,4 +1,4 @@
-# Password-Protected Web App
+# Not-So-Secured Web App
 
 This is a simple web application that requires users to enter a key or password before they can access the content. Please note that this implementation is **very unsecured**, so do not store or display any sensitive information using this app.
 

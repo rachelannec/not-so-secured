@@ -71,6 +71,6 @@ Feel free to fork this repository and make improvements. Pull requests are welco
 <br>
 ###### Additional Tools Used
 
-[CSSGradient](https://cssgradient.io/)
-[In-Browser Mardown Editor](https://stackedit.io/app#)
-Copilot
+-- [CSSGradient](https://cssgradient.io/)
+-- [In-Browser Mardown Editor](https://stackedit.io/app#)
+-- Copilot
